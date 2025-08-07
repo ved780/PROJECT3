@@ -1,7 +1,4 @@
 # Task 3 – Vulnerability Scan Report
-
-**Internship:** Cyber Security – Elevate #Labs  
-**Intern:** Pallavi  
 **Date:** August 7, 2025
 
 ## Overview
